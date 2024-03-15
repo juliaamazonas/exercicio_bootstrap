@@ -1,0 +1,19 @@
+
+    body {
+        max-width: 800px;
+        margin: 1% 30%;
+    }
+    
+    form input{
+        display: block;
+    }
+
+    .form-control {
+        max-width: 350px;
+    }
+
+    
+    .btn {
+        margin-top: 8px;
+        width: 100px;
+    }
